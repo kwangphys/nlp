@@ -1,3 +1,4 @@
+import itertools
 import spacy
 import spacy.symbols as symbols
 nlp = spacy.load('en')
