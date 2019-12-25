@@ -4,3 +4,5 @@
 .idea/nlp.iml
 .idea/vcs.xml
 .idea/workspace.xml
+ERNIE_Base_en_stable-2.0.0/*
+ernie/*
